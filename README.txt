@@ -21,7 +21,8 @@ tables in that directory can be altered or selected. There is a vector
 that holds an abstract data type instance of each table. The table data 
 type contains values such as "name", "attributes", and "Database Associated".
 There are many error checks associated with databases and tables like making
-usre the database in use actually holds the table you want to select or alter.
+sure the database in use actually holds the table you want to select or alter.
+
 
 IMPLEMENTATIONS:
 ---------------
