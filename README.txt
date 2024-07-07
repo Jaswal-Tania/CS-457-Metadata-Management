@@ -1,6 +1,4 @@
 Tania Jaswal
-CS-457-Metadata-Management
-
 
 To run this program, run these instructions in your terminal-
 
